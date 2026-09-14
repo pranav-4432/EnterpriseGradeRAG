@@ -1,0 +1,7 @@
+{
+  "filename": "01_network_security.txt",
+  "source_type": "true",
+  "chunks": [
+    "Network Security - True Sample\n\nNetwork Security is a project component used in a modern data-processing system. This document defines the main responsibility of the component and the conditions under which it should be used. Example record 21 focuses specifically on network security and should be treated as a separate source document during ingestion."
+  ]
+}

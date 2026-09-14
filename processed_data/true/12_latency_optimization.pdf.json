@@ -1,0 +1,7 @@
+{
+  "filename": "12_latency_optimization.pdf",
+  "source_type": "true",
+  "chunks": [
+    "Latency Optimization - True Sample\nLatency Optimization is a project component used in a modern data-processing system. This \ndocument describes a practical implementation approach and explains how it supports reliab\nle application behavior. Example record 32 focuses specifically on latency optimization an\nd should be treated as a separate source document during ingestion."
+  ]
+}

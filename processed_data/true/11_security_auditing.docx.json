@@ -1,0 +1,7 @@
+{
+  "filename": "11_security_auditing.docx",
+  "source_type": "true",
+  "chunks": [
+    "Security Auditing - True Sample\nSecurity Auditing is a project component used in a modern data-processing system. This document defines the main responsibility of the component and the conditions under which it should be used. Example record 31 focuses specifically on security auditing and should be treated as a separate source document during ingestion."
+  ]
+}

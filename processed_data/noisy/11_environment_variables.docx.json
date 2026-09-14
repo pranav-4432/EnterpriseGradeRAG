@@ -1,0 +1,7 @@
+{
+  "filename": "11_environment_variables.docx",
+  "source_type": "noisy",
+  "chunks": [
+    "Environment Variables - Noisy Sample\nEnvironment Variables is a project component used in a modern data-processing system. This document defines the main responsibility of the component and the conditions under which it should be used. Example record 46 focuses specifically on environment variables and should be treated as a separate source document during ingestion.\nUnrelated Noise\nZX-48392 qwerty !!! 0000. This paragraph is intentionally irrelevant. duplicate duplicate duplicate. Broken-format sample ###."
+  ]
+}

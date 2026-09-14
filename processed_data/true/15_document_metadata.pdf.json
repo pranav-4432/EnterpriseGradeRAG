@@ -1,0 +1,7 @@
+{
+  "filename": "15_document_metadata.pdf",
+  "source_type": "true",
+  "chunks": [
+    "Document Metadata - True Sample\nDocument Metadata is a project component used in a modern data-processing system. This doc\nument provides a simple reference for developers working on the EnterpriseGradeRAG ingesti\non and retrieval workflow. Example record 35 focuses specifically on document metadata and\n should be treated as a separate source document during ingestion."
+  ]
+}

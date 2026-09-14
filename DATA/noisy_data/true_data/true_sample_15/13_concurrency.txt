@@ -1,0 +1,3 @@
+Concurrency - True Sample
+
+Concurrency is a project component used in a modern data-processing system. This document records important operational considerations such as performance, maintainability, and failure handling. Example record 33 focuses specifically on concurrency and should be treated as a separate source document during ingestion.

@@ -1,0 +1,7 @@
+{
+  "filename": "06_incident_response.pdf",
+  "source_type": "noisy",
+  "chunks": [
+    "Incident Response - Noisy Sample\nIncident Response is a project component used in a modern data-processing system. This doc\nument defines the main responsibility of the component and the conditions under which it s\nhould be used. Example record 41 focuses specifically on incident response and should be t\nreated as a separate source document during ingestion.\nNOISE: ZX-48392 !!! qwerty 0000 ### unrelated repeated text"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "filename": "09_rag_evaluation.pdf",
+  "source_type": "true",
+  "chunks": [
+    "RAG Evaluation - True Sample\nRAG Evaluation is a project component used in a modern data-processing system. This docume\nnt explains how the component interacts with other services and what information moves bet\nween those services. Example record 29 focuses specifically on rag evaluation and should b\ne treated as a separate source document during ingestion."
+  ]
+}

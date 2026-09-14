@@ -1,0 +1,7 @@
+{
+  "filename": "03_etl_pipeline.pdf",
+  "source_type": "true",
+  "chunks": [
+    "ETL Pipeline - True Sample\nETL Pipeline is a project component used in a modern data-processing system. This document\n records important operational considerations such as performance, maintainability, and fa\nilure handling. Example record 23 focuses specifically on etl pipeline and should be treat\ned as a separate source document during ingestion."
+  ]
+}

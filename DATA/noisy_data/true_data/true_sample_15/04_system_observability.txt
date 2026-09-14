@@ -1,0 +1,3 @@
+System Observability - True Sample
+
+System Observability is a project component used in a modern data-processing system. This document explains how the component interacts with other services and what information moves between those services. Example record 24 focuses specifically on system observability and should be treated as a separate source document during ingestion.

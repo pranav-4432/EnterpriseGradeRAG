@@ -1,0 +1,7 @@
+{
+  "filename": "07_distributed_systems.txt",
+  "source_type": "noisy",
+  "chunks": [
+    "Distributed Systems - Noisy Sample\n\nDistributed Systems is a project component used in a modern data-processing system. This document describes a practical implementation approach and explains how it supports reliable application behavior. Example record 42 focuses specifically on distributed systems and should be treated as a separate source document during ingestion.\n\n--- NOISE ---\nrandom-id=ZX-48392 !!! qwerty 0000 ###\nunrelated sentence: the blue train crossed the mountain at noon.\nduplicate duplicate duplicate words with broken formatting !!!\n--- END NOISE ---"
+  ]
+}

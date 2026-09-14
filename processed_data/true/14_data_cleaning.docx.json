@@ -1,0 +1,7 @@
+{
+  "filename": "14_data_cleaning.docx",
+  "source_type": "true",
+  "chunks": [
+    "Data Cleaning - True Sample\nData Cleaning is a project component used in a modern data-processing system. This document explains how the component interacts with other services and what information moves between those services. Example record 34 focuses specifically on data cleaning and should be treated as a separate source document during ingestion."
+  ]
+}

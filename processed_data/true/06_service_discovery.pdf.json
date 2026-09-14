@@ -1,0 +1,7 @@
+{
+  "filename": "06_service_discovery.pdf",
+  "source_type": "true",
+  "chunks": [
+    "Service Discovery - True Sample\nService Discovery is a project component used in a modern data-processing system. This doc\nument defines the main responsibility of the component and the conditions under which it s\nhould be used. Example record 26 focuses specifically on service discovery and should be t\nreated as a separate source document during ingestion."
+  ]
+}

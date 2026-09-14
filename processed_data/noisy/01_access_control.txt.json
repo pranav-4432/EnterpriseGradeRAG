@@ -1,0 +1,7 @@
+{
+  "filename": "01_access_control.txt",
+  "source_type": "noisy",
+  "chunks": [
+    "Access Control - Noisy Sample\n\nAccess Control is a project component used in a modern data-processing system. This document defines the main responsibility of the component and the conditions under which it should be used. Example record 36 focuses specifically on access control and should be treated as a separate source document during ingestion.\n\n--- NOISE ---\nrandom-id=ZX-48392 !!! qwerty 0000 ###\nunrelated sentence: the blue train crossed the mountain at noon.\nduplicate duplicate duplicate words with broken formatting !!!\n--- END NOISE ---"
+  ]
+}

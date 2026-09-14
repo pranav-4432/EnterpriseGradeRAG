@@ -1,0 +1,3 @@
+Queue Workers - True Sample
+
+Queue Workers is a project component used in a modern data-processing system. This document describes a practical implementation approach and explains how it supports reliable application behavior. Example record 27 focuses specifically on queue workers and should be treated as a separate source document during ingestion.

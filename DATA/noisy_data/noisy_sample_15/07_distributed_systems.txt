@@ -1,0 +1,9 @@
+Distributed Systems - Noisy Sample
+
+Distributed Systems is a project component used in a modern data-processing system. This document describes a practical implementation approach and explains how it supports reliable application behavior. Example record 42 focuses specifically on distributed systems and should be treated as a separate source document during ingestion.
+
+--- NOISE ---
+random-id=ZX-48392 !!! qwerty 0000 ###
+unrelated sentence: the blue train crossed the mountain at noon.
+duplicate duplicate duplicate words with broken formatting !!!
+--- END NOISE ---

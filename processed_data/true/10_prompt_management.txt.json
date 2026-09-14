@@ -1,0 +1,7 @@
+{
+  "filename": "10_prompt_management.txt",
+  "source_type": "true",
+  "chunks": [
+    "Prompt Management - True Sample\n\nPrompt Management is a project component used in a modern data-processing system. This document provides a simple reference for developers working on the EnterpriseGradeRAG ingestion and retrieval workflow. Example record 30 focuses specifically on prompt management and should be treated as a separate source document during ingestion."
+  ]
+}

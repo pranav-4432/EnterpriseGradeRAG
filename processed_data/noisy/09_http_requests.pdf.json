@@ -1,0 +1,7 @@
+{
+  "filename": "09_http_requests.pdf",
+  "source_type": "noisy",
+  "chunks": [
+    "HTTP Requests - Noisy Sample\nHTTP Requests is a project component used in a modern data-processing system. This documen\nt explains how the component interacts with other services and what information moves betw\neen those services. Example record 44 focuses specifically on http requests and should be \ntreated as a separate source document during ingestion.\nNOISE: ZX-48392 !!! qwerty 0000 ### unrelated repeated text"
+  ]
+}

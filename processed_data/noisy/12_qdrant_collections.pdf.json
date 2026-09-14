@@ -1,0 +1,7 @@
+{
+  "filename": "12_qdrant_collections.pdf",
+  "source_type": "noisy",
+  "chunks": [
+    "Qdrant Collections - Noisy Sample\nQdrant Collections is a project component used in a modern data-processing system. This do\ncument describes a practical implementation approach and explains how it supports reliable\n application behavior. Example record 47 focuses specifically on qdrant collections and sh\nould be treated as a separate source document during ingestion.\nNOISE: ZX-48392 !!! qwerty 0000 ### unrelated repeated text"
+  ]
+}

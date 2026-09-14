@@ -1,0 +1,7 @@
+{
+  "filename": "03_health_checks.pdf",
+  "source_type": "noisy",
+  "chunks": [
+    "Health Checks - Noisy Sample\nHealth Checks is a project component used in a modern data-processing system. This documen\nt records important operational considerations such as performance, maintainability, and f\nailure handling. Example record 38 focuses specifically on health checks and should be tre\nated as a separate source document during ingestion.\nNOISE: ZX-48392 !!! qwerty 0000 ### unrelated repeated text"
+  ]
+}

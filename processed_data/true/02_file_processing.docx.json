@@ -1,0 +1,7 @@
+{
+  "filename": "02_file_processing.docx",
+  "source_type": "true",
+  "chunks": [
+    "File Processing - True Sample\nFile Processing is a project component used in a modern data-processing system. This document describes a practical implementation approach and explains how it supports reliable application behavior. Example record 22 focuses specifically on file processing and should be treated as a separate source document during ingestion."
+  ]
+}

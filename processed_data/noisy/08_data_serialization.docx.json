@@ -1,0 +1,7 @@
+{
+  "filename": "08_data_serialization.docx",
+  "source_type": "noisy",
+  "chunks": [
+    "Data Serialization - Noisy Sample\nData Serialization is a project component used in a modern data-processing system. This document records important operational considerations such as performance, maintainability, and failure handling. Example record 43 focuses specifically on data serialization and should be treated as a separate source document during ingestion.\nUnrelated Noise\nZX-48392 qwerty !!! 0000. This paragraph is intentionally irrelevant. duplicate duplicate duplicate. Broken-format sample ###."
+  ]
+}
